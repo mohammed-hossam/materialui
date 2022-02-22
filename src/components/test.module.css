@@ -1,0 +1,7 @@
+.test {
+  color: red;
+  border: 1px solid gold;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}

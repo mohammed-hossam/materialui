@@ -64,7 +64,7 @@ function EmployeeForm() {
       </Grid>
       <Grid item xs={6} sx={{}}>
         <FormControl>
-          <FormLabel>Gender</FormLabel>
+          <FormLabel>النوع</FormLabel>
           <RadioGroup row name="gender" onChange={handleInputChange}>
             {items.map((item) => (
               <FormControlLabel

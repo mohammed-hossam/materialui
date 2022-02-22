@@ -1,4 +1,23 @@
-.MuiPaper-root {
+/* .MuiPaper-root {
   background-color: aqua;
   margin-top: 10em;
+} */
+
+/* .css-1kt13eu-MuiFormLabel-root-MuiInputLabel-root {
+  transform-origin: top right;
+  display: block;
+  margin-left: -3em !important;
+} */
+
+.MuiOutlinedInput-notchedOutline {
+  text-align: right;
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+  right: unset;
+  left: 0.5em;
+}
+.css-bpeome-MuiSvgIcon-root-MuiSelect-icon {
+  right: unset;
+  left: 0.5em;
 }
